@@ -1,4 +1,4 @@
-package repository;
+package com.example.todoparty.repository;
 
 import com.example.todoparty.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
