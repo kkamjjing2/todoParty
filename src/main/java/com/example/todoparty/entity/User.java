@@ -1,4 +1,4 @@
-package com.example.todoparty;
+package com.example.todoparty.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
